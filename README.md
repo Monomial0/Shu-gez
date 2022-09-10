@@ -1,6 +1,6 @@
 ### Hi there,I am [Shu-gez](https://github.com/Shu-Gez) 👋
 
-🌱 I’m currently learning some algorithms.
+🌱 I’m currently learning about some algorithms.
 
 📫 How to reach me: 234665429@qq.com 
 
